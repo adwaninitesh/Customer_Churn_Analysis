@@ -1,6 +1,6 @@
 # Customer_Churn_Analysis
 
-Project Title: Customer Churn Analysis and Retention Strategy Implementation
+## Project Title: Customer Churn Analysis and Retention Strategy Implementation
 
 Overview:
 
