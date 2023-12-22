@@ -1,8 +1,5 @@
 # Customer_Churn_Analysis
 
-
-Certainly! Here's a professional project description you can include in your resume:
-
 Project Title: Customer Churn Analysis and Retention Strategy Implementation
 
 Overview:
